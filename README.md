@@ -1,5 +1,5 @@
-![Jokes Card](https://readme-jokes.vercel.app/api)
-<!-- ### I think a lot, but I don’t say much. -->
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
+### I think a lot, but I don’t say much.
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=c0nfsd&theme=blue-green) -->
 <!---
