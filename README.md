@@ -1,4 +1,4 @@
-### I think a lot, but I don’t say much.
+<!-- ### I think a lot, but I don’t say much. -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <!---
