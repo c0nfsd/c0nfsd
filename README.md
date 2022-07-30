@@ -1,5 +1,8 @@
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 ### I think a lot, but I don’t say much.
+---
+![github contribution grid snake animation](https://raw.githubusercontent.com/c0nfsd/c0nfsd/output/github-contribution-grid-snake.svg)
+<!--generated with https://github.com/Platane/snk -->
 
 <!-- <details>
 <summary>
